@@ -5,7 +5,7 @@
   </a>
   <a href="#">
 <p align="center">
-  <img src="https://github.com/skyscope-sentinel//blob/main/Skyscope-Sentinel-AI-OS.png?raw=true" alt="Skyscope Sentinel AI-OS Logo" width="60%" />
+  <img src="https://github.com/skyscope-sentinel/main/Skyscope-Sentinel-AI-OS.png?raw=true" alt="Skyscope Sentinel AI-OS Logo" width="60%" />
 </p>
 
 

@@ -2,10 +2,21 @@
 
 **Vision:** Orchestrating the Future of Secure, AI-Driven Operating Systems.
 
-<p align="center">
-  <img src="https://github.com/skyscope-sentinel/kuwa-aios/blob/main/Skyscope-Sentinel-AI-OS.png?raw=true" alt="Skyscope Sentinel AI-OS Logo" width="60%" />
-</p>
-_(Note: Logo may be subject to update to reflect the distinct nature of Skyscope OS)_
+## 💖 **Support the Project**
+
+<div align="center">
+
+If this project has helped you achieve NVIDIA GPU acceleration on macOS Tahoe, consider supporting its continued development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/skyscope)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/LLKXP3QBT7BZN)
+
+*Your support helps maintain and improve this open-source project for the entire community*
+
+</div>
+
+---
+
 
 ## Introduction
 
